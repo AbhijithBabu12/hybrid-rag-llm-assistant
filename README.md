@@ -49,15 +49,17 @@ Components:
 
 ### 🖥️ Desktop UI
 
-![Desktop Chat](images/desktop_chat.png)
+![Desktop Chat](images/laptop_1.png)
 
-![Desktop With Files](images/desktop_files.png)
+![Desktop With Files](images/laptop_2.png)
 
-### 📱 Mobile UI
+## 📱 Mobile UI
 
-![Mobile Chat](images/mobile_chat.png)
+<p align="center">
+  <img src="images/mobiel_1.jpeg" width="250"/>
+  <img src="images/mobile_2.jpeg" width="250"/>
+</p>
 
-![Mobile Sidebar](images/mobile_sidebar.png)
 
 ---
 
@@ -163,10 +165,9 @@ This allows running large models without local GPU.
 
 ## 👨‍💻 Author
 
-**Abhijith Babu**
+Abhijith Babu
+Passionate about ML & AI 🚀
 
----
+📌 GitHub: [https://github.com/AbhijithBabu12]
 
-## ⭐ If you like this project
-
-Give it a star on GitHub ⭐
+📌 LinkedIn: [https://www.linkedin.com/in/abhijith-babu-856170201/]
