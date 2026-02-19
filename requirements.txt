@@ -1,0 +1,30 @@
+# Core ML
+torch
+transformers==4.46.3
+accelerate==0.34.2
+bitsandbytes==0.43.3
+huggingface-hub==0.36.0
+
+# LangChain
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.33
+langchain-huggingface
+langchain-text-splitters
+
+# Embeddings + RAG
+sentence-transformers
+faiss-cpu
+pypdf
+tiktoken
+einops
+python-dotenv
+
+# Backend
+flask
+flask-cors
+
+# Utilities
+numpy
+scipy
+scikit-learn
